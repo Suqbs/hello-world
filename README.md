@@ -7,4 +7,6 @@ This repository is built step by step in the tutorial.
 
 It now includes step for GitHub.
 
-This is a test line.
+This is a test line. 
+
+This is a line added for amend command.
